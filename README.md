@@ -1,5 +1,8 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+## Name: Vikaash K S
+## Register NUmber: 212223240179
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
