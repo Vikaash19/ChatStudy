@@ -2,6 +2,7 @@
 
 ### Name: Vikaash K S
 ### Register Number: 212223240179
+### Date: 20.08.2024
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
